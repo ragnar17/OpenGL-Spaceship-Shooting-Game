@@ -1,0 +1,9 @@
+I created this game as a course project(Computer Graphics) using OpenGL and C++.
+
+Instructions :
+1. First install the OpenGL (if you already have it you can skip this step )
+  Run the following command to install OpenGL on Ubuntu
+  > sudo apt-get install freeglut3-dev
+2. Open the terminal and change your directory to the game directory and run the following command .
+  > g++ game.cpp -lGL -lGLU -lglut
+3. Have Fun !!!
