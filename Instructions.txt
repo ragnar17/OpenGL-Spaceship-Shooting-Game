@@ -4,4 +4,6 @@ Instructions :
   > sudo apt-get install freeglut3-dev
 2. Open the terminal and change your directory to the game directory and run the following command .
   > g++ game.cpp -lGL -lGLU -lglut
-3. Have Fun !!!
+3. Run the following command to start playing the game .
+  > ./a.out
+4. Have Fun !!!
